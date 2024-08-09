@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nishikanta24
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning SQL,MsEXCEL,PowerBi
+- 👀 I’m interested in Data Analytics & Data Science
+- 🌱 I’m experienced in SQL,MsEXCEL,PowerBi,Python(Libraries)
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nishinayak24@gmail.com,+91 80188041974
 - 😄 Pronouns: Batman
